@@ -14,7 +14,7 @@
   <br />
   
   <h3>
-    <a href="https://<USERNAME>.github.io/<REPO-NAME>">🌐 Jonli Ko'rish (Live Demo)</a>
+    <a href="https://sanjarbek404.github.io/FINALYTIX-Dashboard/">🌐 Jonli Ko'rish (Live Demo)</a>
     <span> | </span>
     <a href="#-loyihani-ishga-tushirish">💻 O'rnatish</a>
   </h3>
