@@ -71,7 +71,7 @@ export default function TransactionForm({ onAdd }: TransactionFormProps) {
               type="number"
               required
               min="0"
-              step="1000"
+              step="any"
               value={amount}
               onChange={(e) => setAmount(e.target.value)}
               className="w-full px-3 py-2 bg-[#0A0A0B] border border-[#222224] rounded-sm text-white font-mono focus:outline-none focus:border-emerald-500 transition-colors placeholder:text-gray-600"
